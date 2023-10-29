@@ -1,0 +1,19 @@
+div.diff {
+    max-width: unset!important;
+    display: unset!important;
+}
+
+table.diff .line-no{
+  width: 30px!important;
+}
+#uploaderholder1 {
+  display: flex;
+}
+#uploaderholder1 > div{
+  width: 45%;
+  margin-right: 5px;
+}
+
+#returnres1{
+  color: red;
+}
